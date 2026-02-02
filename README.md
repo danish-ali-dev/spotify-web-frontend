@@ -5,16 +5,13 @@ A fully responsive frontend clone of the Spotify Web Player built with HTML5, CS
 
 A responsive web player interface inspired by Spotify, built to practice modern frontend development and UI design principles.
 
-**[Live Demo Link]**:https://spotify-web-frontend-wsw6-danish-ali-s-projects.vercel.app/
+**[Live Demo Link]**:https://vercel.com/danish-ali-s-projects/spotify-web-frontend-3zk8/DpgQA4SYzgRBh9u8oRK4mmWk2Rbv
 ## 📸 Screenshots
 *(Add a screenshot of your project here. Drag and drop an image into the GitHub editor or use an image hosting link)*
 
 ## 🛠️ Tech Stack
 * **HTML5:** Semantic structure.
 * **CSS3:** Flexbox & Grid for layout, custom animations for hover effects.
-## ✨ Key Features
-* **Responsive Design:** Adapts layout for desktop and mobile screens.
-* **Audio Control:** Functional seek bar, volume control, and play/pause toggling.
 ## 🚀 How to Run Locally
 1. Clone the repository:
    `git clone https://github.com/danish-ali-dev/spotify-clone-frontend.git`
